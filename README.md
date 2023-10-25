@@ -46,7 +46,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - :lobster: - Rust SCION application library. Work in progress, not yet public. :construction:
 
 ##### Bindings
-- [pan-binding](https://github.com/netsys-lab/pan-binding) - C, C++, and Python bindings for pan.
+- [pan-bindings](https://github.com/lschulz/pan-bindings) - C, C++, and Python bindings for pan.
 - [pan-lua](https://github.com/netsys-lab/pan-lua) - Lua-scriptable path selector interface to pan.
 
 ## Deployments
