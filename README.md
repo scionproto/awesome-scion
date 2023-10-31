@@ -19,6 +19,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 - [scion-ca](https://github.com/netsys-lab/scion-ca) - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates).
 - [bootstrapper](https://github.com/netsec-ethz/bootstrapper) - SCION endhost autoconfiguration tool.
+- [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) - SCION border router in P4 with support for AES accelerators. :wrench:
 - [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router) - A SCION border router making use of XDP and P4. :wrench: :construction:
 
 ## Applications
@@ -32,7 +33,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 ## Libraries
 
 ##### Go
-- [scion-apps/pkg/pan](https://pkg.go.dev/github.com/netsec-ethz/scion-apps/pkg/pan) - Policy-based, path aware network library for building applications supporting SCION natively. 
+- [scion-apps/pkg/pan](https://pkg.go.dev/github.com/netsec-ethz/scion-apps/pkg/pan) - Policy-based, path aware network library for building applications supporting SCION natively.
 - [scion-apps/pkg/shttp](https://pkg.go.dev/github.com/netsec-ethz/scion-apps/pkg/shttp) - Glue to use the standard net/http libraries for HTTP with SCION, using pan.
 - [scion-apps/pkg/shttp3](https://pkg.go.dev/github.com/netsec-ethz/scion-apps/pkg/shttp3) - Glue to use quic-go/http3 libraries for HTTP/3 with SCION, using pan.
 - [parts](https://github.com/netsys-lab/parts) - Path-aware Reliable Transport over SCION. :wrench:
@@ -59,6 +60,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 ## Tools
 - [SEED Emulator](https://github.com/seed-labs/seed-emulator/tree/master/examples/scion) - SEED Security Labs network emulator supports SCION.
 - [scapy-scion-int](https://github.com/lschulz/scapy-scion-int) - [Scapy](https://scapy.net/) layers for SCION.
+- [tofino-pktgen](https://github.com/netsys-lab/scion-p4/tree/main/tofino-pktgen) - SCION packet generator for Intel Tofino 2 switches.
 
 ## IETF
 - [draft-dekater-panrg-scion-overview](https://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/)
