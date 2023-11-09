@@ -50,6 +50,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [pan-lua](https://github.com/netsys-lab/pan-lua) - Lua-scriptable path selector interface to pan.
 
 ## Deployments
+- [ISD and AS Assignments](https://docs.anapaya.net/en/latest/resources/isd-as-assignments/) - Assigned [ISD](https://docs.scion.org/en/latest/glossary.html#term-ISD) and [AS](https://docs.scion.org/en/latest/glossary.html#term-AS) numbers<sup>[1](#footnonte-isd-as-assignment)</sup>.
 - [SSFN](https://www.six-group.com/de/products-services/banking-services/ssfn.html) - Swiss Secure Finance Network, a closed network using SCION.
 - [Scion Education Network](https://sciera.readthedocs.io/en/latest/index.html) - SCION network connecting universities and national research and education networks (NRENs).
 - [SCIONLab](https://www.scionlab.org) - Global SCION network testbed.
@@ -74,3 +75,6 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+-------
+<sub><a name="footnonte-isd-as-assignment">[1]</a>: ISD and AS numbers assignments are currently managed by Anapaya. This will be handed over to a vendor-neutral governance body, like the regional internet registries or the SCION Association, as soon as possible.</sub>
