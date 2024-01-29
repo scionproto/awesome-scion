@@ -46,7 +46,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [scion-java-client](https://github.com/netsec-ethz/scion-java-client) - Java SCION application library. :construction:
 
 ##### Rust
-- :lobster: - Rust SCION application library. Work in progress, not yet public. :construction:
+- [scion-rs](https://github.com/MystenLabs/scion-rs) - SCION endhost stack written in Rust.
 
 ##### Bindings
 - [pan-bindings](https://github.com/lschulz/pan-bindings) - C, C++, and Python bindings for pan.
