@@ -50,6 +50,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### Bindings
 - [pan-bindings](https://github.com/lschulz/pan-bindings) - C, C++, and Python bindings for pan.
+- [snet-bindings](https://github.com/lschulz/snet-bindings) - C and C++ bindings for snet. :wrench:
 - [pan-lua](https://github.com/netsys-lab/pan-lua) - Lua-scriptable path selector interface to pan.
 
 ## Deployments
