@@ -77,6 +77,9 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [Publications list](https://scion-architecture.net/pages/publications/)
 - [LightningFilter](https://github.com/netsec-ethz/lightning-filter) - High-speed traffic filtering mechanism that performs authentication, rate limiting, and duplicate detection.
 
+## Operating System Support
+- [NixOS Support for SCION](https://wiki.nixos.org/wiki/SCION)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
