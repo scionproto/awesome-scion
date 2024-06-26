@@ -43,7 +43,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [snet](https://pkg.go.dev/github.com/scionproto/scion/pkg/snet) - Primary, but low-ish-level level library for native SCION applications.
 
 ##### Java
-- [jpan](https://github.com/scionproto-contrib/jpan) - Java SCION application library. :construction:
+- [jpan](https://github.com/scionproto-contrib/jpan) - Java SCION application library. :wrench:
 
 ##### Rust
 - [scion-rs](https://github.com/MystenLabs/scion-rs) - SCION endhost stack written in Rust.
