@@ -18,6 +18,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [scionproto/scion](https://github.com/scionproto/scion) - The open-source implementation of SCION.
 - [Anapaya](https://www.anapaya.net) - Vendor of SCION infrastructure, both based on the open-source implementation and proprietary.
 - [scion-ca](https://github.com/netsys-lab/scion-ca) - SCION Control Plane PKI implementation based on [smallstep/step-ca](https://github.com/smallstep/certificates).
+- [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) :wrench: :construction:
 - [bootstrapper](https://github.com/netsec-ethz/bootstrapper) - SCION endhost autoconfiguration tool.
 - [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) - SCION border router in P4 with support for AES accelerators. :wrench:
 - [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router) - A SCION border router making use of XDP and P4. :wrench: :construction:
