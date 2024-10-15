@@ -24,9 +24,10 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router) - A SCION border router making use of XDP and P4. :wrench: :construction:
 
 ## Applications
-- [caddy-scion](https://github.com/scionproto-contrib/caddy-scion) - SCION enabled HTTP webserver :wrench:
+- [SCION Application docs](https://docs.scion.org/projects/scion-applications/en/latest/) Compilation of technical information for supported SCION applications.
+- [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) - SCION enabled HTTP Forward/Reverse proxy :wrench: (docs[https://scion-http-proxy.readthedocs.io/en/latest/index.html])
 - [scion-apps](https://github.com/netsec-ethz/scion-apps) - Miscellaneous SCION demo applications.
-- [scion-browser-extension](https://github.com/netsys-lab/scion-browser-extensions) - SCION support for Chrome/Firefox ([docs](https://docs.scionlab.org/content/apps/scion-browser.html)). :wrench:
+- [scion-browser-extension](https://github.com/scionproto-contrib/browser-extension) - SCION support for Chrome/Firefox ([docs](https://scion-browser-extension.readthedocs.io/en/latest/index.html)). :wrench:
 - [bittorrent-over-scion](https://github.com/netsys-lab/bittorrent-over-scion) - Path-aware BitTorrent client running on SCION.
 - [spate](https://github.com/netsys-lab/scion-apps/tree/tool/spate-bpf/spate) - Multipath traffic generator and bandwidth tester. :wrench:
 - [hercules](https://github.com/netsec-ethz/hercules) - High speed bulk data transfer application. :wrench:
