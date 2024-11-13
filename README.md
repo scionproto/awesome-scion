@@ -32,8 +32,13 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [spate](https://github.com/netsys-lab/scion-apps/tree/tool/spate-bpf/spate) - Multipath traffic generator and bandwidth tester. :wrench:
 - [hercules](https://github.com/netsec-ethz/hercules) - High speed bulk data transfer application. :wrench:
 - [ioq3-scion](https://github.com/lschulz/ioq3-scion) - Quake III with SCION networking. :boom:
+- [multiping](https://github.com/netsec-ethz/scion-java-multiping) - A tool to measure latency on multiple paths to multiple destinations . :wrench:
 - [nats-server](https://github.com/MartincoitNetworks/nats-server) - [NATS](https://nats.io/) server with SCION networking. :wrench: :construction:
 - [nats-client](https://github.com/MartincoitNetworks/scion-nats.go) - Simple [NATS](https://nats.io/) client for SCION Enabled NATS servers. :wrench: :construction:
+
+## Examples
+- [JPAN packet example](https://github.com/netsec-ethz/scion-java-packet-example) - A simple example (used [here](https://scion-architecture.net/apps/)) that sends a packet to the [SCION packet analyzer](https://echoscion.ddns.net/). 
+
 
 ## Libraries
 
