@@ -49,7 +49,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [jpan](https://github.com/scionproto-contrib/jpan) - Java SCION application library. :wrench:
 
 ##### Rust
-- [scion-rs](https://github.com/MystenLabs/scion-rs) - SCION endhost stack written in Rust.
+- [scion-sdk](https://github.com/Anapaya/scion-sdk) - SCION endhost stack written in Rust.
 
 ##### Bindings
 - [pan-bindings](https://github.com/lschulz/pan-bindings) - C, C++, and Python bindings for pan.
