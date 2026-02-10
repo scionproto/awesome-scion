@@ -24,6 +24,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router) - A SCION border router making use of XDP and P4. :wrench: :construction:
 
 ## Applications
+- [scion-sdk](https://github.com/Anapaya/scion-sdk) - SCION endhost software development kit (SDK) by Anapaya
 - [SCION Application docs](https://docs.scion.org/projects/scion-applications/en/latest/) Compilation of technical information for supported SCION applications.
 - [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) - SCION enabled HTTP Forward/Reverse proxy :wrench: ([docs](https://scion-http-proxy.readthedocs.io/en/latest/index.html]))
 - [scion-apps](https://github.com/netsec-ethz/scion-apps) - Miscellaneous SCION demo applications.
