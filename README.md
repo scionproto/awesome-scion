@@ -75,14 +75,12 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [tofino-pktgen](https://github.com/netsys-lab/scion-p4/tree/main/tofino-pktgen) - SCION packet generator for Intel Tofino 2 switches.
 
 ## IETF
-- [draft-dekater-panrg-scion-overview](https://datatracker.ietf.org/doc/draft-dekater-panrg-scion-overview/)
-- [draft-rustignoli-panrg-scion-components](https://datatracker.ietf.org/doc/draft-rustignoli-panrg-scion-components/)
 - [draft-dekater-scion-pki](https://datatracker.ietf.org/doc/draft-dekater-scion-pki/)
 - [draft-dekater-scion-controlplane](https://datatracker.ietf.org/doc/draft-dekater-scion-controlplane/)
 - [draft-dekater-scion-dataplane](https://datatracker.ietf.org/doc/draft-dekater-scion-dataplane/)
 
 ## Research
-- [Publications list](https://scion-architecture.net/pages/publications/)
+- [Publications list](https://www.scion.org/research/)
 - [LightningFilter](https://github.com/netsec-ethz/lightning-filter) - High-speed traffic filtering mechanism that performs authentication, rate limiting, and duplicate detection.
 
 ## Operating System Support
