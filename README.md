@@ -5,7 +5,7 @@
 [![Matrix chat](https://img.shields.io/badge/chat%20on-matrix-blue?logo=matrix)](https://matrix.to/#/#scion:matrix.scion.org)
 [![SCION Association](https://img.shields.io/badge/SCION-Association-white)](https://www.scion.org)
 
-<a href="https://www.scion.org"><img src="awesome-scion-logo.png" height="160" align="right" alt="awesome SCION"></a>
+<a href="https://www.scion.org"><img src="awesome-scion-logo.webp" height="160" align="right" alt="awesome SCION"></a>
 
 A curated list of awesome SCION tools, applications, libraries and resources.
 
@@ -21,12 +21,10 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [step-scion-plugin](https://github.com/scionproto-contrib/step-scion-plugin) - SCION Control Plane PKI plugin for [smallstep/cli](https://github.com/smallstep/cli) :wrench: :construction:
 - [bootstrapper](https://github.com/netsec-ethz/bootstrapper) - SCION endhost autoconfiguration tool.
 - [tofino-scion-br](https://github.com/netsys-lab/scion-p4/tree/main/tofino-scion-br) - SCION border router in P4 with support for AES accelerators. :wrench:
-- [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router) - A SCION border router making use of XDP and P4. :wrench: :construction:
 
 ## Applications
-- [scion-sdk](https://github.com/Anapaya/scion-sdk) - SCION endhost software development kit (SDK) by Anapaya
 - [SCION Application docs](https://docs.scion.org/projects/scion-applications/en/latest/) Compilation of technical information for supported SCION applications.
-- [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) - SCION enabled HTTP Forward/Reverse proxy :wrench: ([docs](https://scion-http-proxy.readthedocs.io/en/latest/index.html]))
+- [HTTP proxy](https://github.com/scionproto-contrib/http-proxy) - SCION enabled HTTP Forward/Reverse proxy :wrench:
 - [scion-apps](https://github.com/netsec-ethz/scion-apps) - Miscellaneous SCION demo applications.
 - [scion-browser-extension](https://github.com/scionproto-contrib/browser-extension) - SCION support for Chrome/Firefox :wrench: ([docs](https://scion-browser-extension.readthedocs.io/en/latest/index.html)).
 - [bittorrent-over-scion](https://github.com/netsys-lab/bittorrent-over-scion) - Path-aware BitTorrent client running on SCION.
@@ -62,7 +60,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [pan-lua](https://github.com/netsys-lab/pan-lua) - Lua-scriptable path selector interface to pan.
 
 ## Deployments
-- [ISD and AS Assignments](https://docs.anapaya.net/en/latest/resources/isd-as-assignments/) - Assigned [ISD](https://docs.scion.org/en/latest/glossary.html#term-ISD) and [AS](https://docs.scion.org/en/latest/glossary.html#term-AS) numbers<sup>[1](#footnonte-isd-as-assignment)</sup>.
+- [ISD and AS Assignments](https://learn.anapaya.net/docs/resources/assignments/) - Assigned [ISD](https://docs.scion.org/en/latest/glossary.html#term-ISD) and [AS](https://docs.scion.org/en/latest/glossary.html#term-AS) numbers<sup>[1](#footnonte-isd-as-assignment)</sup>.
 - [SSFN](https://www.six-group.com/de/products-services/banking-services/ssfn.html) - Swiss Secure Finance Network, a closed network using SCION.
 - [Scion Education Network](https://sciera.readthedocs.io/en/latest/index.html) - SCION network connecting universities and national research and education networks (NRENs).
 - [SCIONLab](https://www.scionlab.org) - Global SCION network testbed.
