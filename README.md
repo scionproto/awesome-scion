@@ -34,6 +34,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [ioq3-scion](https://github.com/lschulz/ioq3-scion) - Quake III with SCION networking. :boom:
 - [nats-server](https://github.com/MartincoitNetworks/nats-server) - [NATS](https://nats.io/) server with SCION networking. :wrench: :construction:
 - [nats-client](https://github.com/MartincoitNetworks/scion-nats.go) - Simple [NATS](https://nats.io/) client for SCION Enabled NATS servers. :wrench: :construction:
+- [Scitra-TUN](https://lcschulz.de/software/scitra-tun/) - A SCION-IPv6 packet translator.
 
 ## Libraries
 
@@ -50,6 +51,9 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 
 ##### Rust
 - [scion-sdk](https://github.com/Anapaya/scion-sdk) - SCION endhost stack written in Rust.
+
+##### C++
+- [scion-cpp](https://github.com/lschulz/scion-cpp) - SCION C++ application SDK. Includes support for ASIO and C-style socket programming.
 
 ##### Bindings
 - [pan-bindings](https://github.com/lschulz/pan-bindings) - C, C++, and Python bindings for pan.
