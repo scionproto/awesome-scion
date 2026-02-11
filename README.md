@@ -36,7 +36,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [nats-client](https://github.com/MartincoitNetworks/scion-nats.go) - Simple [NATS](https://nats.io/) client for SCION Enabled NATS servers. :wrench: :construction:
 
 ## Examples
-- [JPAN packet example](https://github.com/netsec-ethz/scion-java-packet-example) - A simple example (used [here](https://scion-architecture.net/apps/)) that sends a packet to the [SCION packet analyzer](https://echoscion.ddns.net/). 
+- [JPAN packet example](https://github.com/netsec-ethz/scion-java-packet-example) - A simple example (used [here](https://apps.scion.org)) that sends a packet to the [SCION packet analyzer](https://scionpacketinspector.netsec.ethz.ch). 
 
 
 ## Libraries
