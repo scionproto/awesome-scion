@@ -76,6 +76,7 @@ A curated list of awesome SCION tools, applications, libraries and resources.
 - [SEED Emulator](https://github.com/seed-labs/seed-emulator/tree/master/examples/scion) - SEED Security Labs network emulator supports SCION.
 - [scapy-scion-int](https://github.com/lschulz/scapy-scion-int) - [Scapy](https://scapy.net/) layers for SCION.
 - [tofino-pktgen](https://github.com/netsys-lab/scion-p4/tree/main/tofino-pktgen) - SCION packet generator for Intel Tofino 2 switches.
+- [ietf-scion-testbed](https://github.com/netsys-lab/ietf-scion-testbed) - Ansible/Proxmox deployment of a 12-AS SCION testbed with parallel BGP/IP routing, link shaping and a monitoring dashboard.
 
 ## IETF
 - [draft-dekater-scion-pki](https://datatracker.ietf.org/doc/draft-dekater-scion-pki/)
